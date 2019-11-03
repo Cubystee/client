@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am cubystee on github.
+  * I am cubystee (https://keybase.io/cubystee) on keybase.
+  * I have a public key ASDJePwBfNBvPNC_xI2Osk75NNrkzlMl51dg-8VUBe8SXAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c978fc017cd06f3cd0bfc48d8eb24ef934dae4ce5325e75760fbc55405ef125c0a",
+      "host": "keybase.io",
+      "kid": "0120c978fc017cd06f3cd0bfc48d8eb24ef934dae4ce5325e75760fbc55405ef125c0a",
+      "uid": "90d97268b7f53416df53236048e7e919",
+      "username": "cubystee"
+    },
+    "merkle_root": {
+      "ctime": 1572774880,
+      "hash": "c1473eadda5e9aba5d91fd20ded1ea7596bbf55ec31302e0d611c5e074d114476de24d3429c8f08ac77cb7a9f08b783b8dfad0d59df703ef7dd521f96895a87f",
+      "hash_meta": "bb91deb175c98a03c8522ec433dcb78ff1dd63f72ecb7d08eed4a9b6b56b4f3a",
+      "seqno": 8653974
+    },
+    "service": {
+      "entropy": "3CQx7Wf83AUdIJ+KMv0+XROi",
+      "name": "github",
+      "username": "cubystee"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1572774899,
+  "expire_in": 504576000,
+  "prev": "dc4e13cf638e10385309b5baf8deffa62fd2bbd526b0ed4d47ec12578a152758",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASDJePwBfNBvPNC_xI2Osk75NNrkzlMl51dg-8VUBe8SXAo](https://keybase.io/cubystee), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyXj8AXzQbzzQv8SNjrJO+TTa5M5TJedXYPvFVAXvElwKp3BheWxvYWTESpcCCMQg3E4Tz2OOEDhTCbW6+N7/pi/Su9UmsO1NR+wSV4oVJ1jEIKBuu4BMF+t58yWuszgD/41fwjg1f9S2nPWb6DbgkRs2AgHCo3NpZ8RAhJCvRA9JTM4K58GoqPTeEWim++mJcKyWC6a2oaZCY8bUikxz0oa3teFO3QWXGAai/0KUMYqPPXS0x1DqrPfjCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEzOq2C9WT2TdsKEsoUTRLodOlJNsTqVZxQvYwH0ZrvOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/cubystee
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id cubystee
+```
